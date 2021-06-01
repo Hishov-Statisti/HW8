@@ -23,7 +23,7 @@ knitr::include_graphics("1.b.png")
 # c #
 
 ```{r,echo=FALSE}
-#knitr::include_graphics("1.c.1.png")
+knitr::include_graphics("1.c.1.png")
 ```
 
 # d #
